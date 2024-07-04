@@ -8,7 +8,7 @@ namespace KitapMagaza.EntityLayer.Concrete
 {
     public class Author
     {
-        public int AutorId { get; set; }
+        public int AuthorId { get; set; }
         public string AuthorName { get; set; }
         public string AuthorSurname { get; set; }
         public string Detail { get; set; }
